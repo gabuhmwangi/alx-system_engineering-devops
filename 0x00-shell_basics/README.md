@@ -1,2 +1,1 @@
-script that Prints the  current working directory
-Contains list of current directory
+Display current directory contents, including hidden files, starting with .. Use the long format
