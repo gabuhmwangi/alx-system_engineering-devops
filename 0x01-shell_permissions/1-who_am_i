@@ -1,2 +1,2 @@
 #!/bin/bash
-cat user.name
+git config --list | findstr user.name
